@@ -63,7 +63,7 @@ The dataset used for this project should contain the following parameters:
 
 ## Evaluation
 To evaluate the performance of the machine learning models, the project utilizes various metrics such as accuracy, precision, recall, and F1 score. These metrics provide insights into the model's ability to correctly predict diabetic patient.
-The highest accuracy received is 96.8% from Random Forest Classifier.
+The highest accuracy acheived is 96.8% from Random Forest Classifier.
 
 ## Contributing
 
